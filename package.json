@@ -1,0 +1,14 @@
+{
+  "name": "test-with-jest",
+  "version": "1.0.0",
+  "description": "project testing",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "gallang sadewa",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
